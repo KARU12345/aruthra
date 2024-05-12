@@ -1,4 +1,10 @@
 this is today practice
 +
+<<<<<<< HEAD
 this is today devops practice
 +
+||||||| parent of f9c79cd (cloud commit1)
+=======
+this is today cloud practice
++
+>>>>>>> f9c79cd (cloud commit1)
