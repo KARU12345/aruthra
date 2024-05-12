@@ -1,4 +1,0 @@
-this is today practice
-+
-this is today devops practice
-+
